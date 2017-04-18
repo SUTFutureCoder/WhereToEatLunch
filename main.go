@@ -12,7 +12,7 @@ var (
 
 func main(){
 	r   := make(map[int]string)
-	r[0] = "桂林米粉"
+	r[0] = "吉野家"
 	r[1] = "宽小面"
 	r[2] = "多味轩"
 	r[3] = "米FEEL"
